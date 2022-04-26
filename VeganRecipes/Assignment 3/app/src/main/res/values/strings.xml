@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="foodImage">TODO</string>
+    <string name="goButton">GO TO RECIPE</string>
+    <string name="try_a_new_recipe">TRY A NEW RECIPE !</string>
+    <string name="vegan_recipesLabel">VEGAN RECIPES</string>
+    <string name="foodlabel">FoodLabel</string>
+    <string name="go_backbtn">GO BACK</string>
+    <string-array name= "recipesSpin" >
+            <item>Banana Bread</item>
+            <item>Cauliflower Buffalo Wings</item>
+            <item>Spicy Black Bean soup</item>
+            <item>Spinach Lasagna</item>
+            <item>Carrot Cake Oats</item>
+        </string-array>
+
+
+</resources>
